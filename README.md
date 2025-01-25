@@ -9,7 +9,7 @@ This repository contains the final project for the *Advanced Computer Science - 
 2. [Report] - The formal report detailing the project's objectives, methodologies, results, and conclusions.
 
 ### Dataset 
-- [JetNet](https://github.com/jet-net/JetNet](https://zenodo.org/records/6975118) - Documentation About the Dataset used
+- [JetNet](https://zenodo.org/records/6975118) - Documentation About the Dataset used
 
 
 
